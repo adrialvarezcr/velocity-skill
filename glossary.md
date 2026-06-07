@@ -9,6 +9,12 @@ Key terms and concepts from all 36 essays, alphabetically sorted. Each entry inc
 **Use when:** You're waiting for someone to give you permission to start.
 **Source:** Multiple essays including "Lanzar es solo el Preparatorio", "Permiso Retroactivo"
 
+### Alianza / Alianzas que Suman Dimensiones
+**Definition:** Partnership based on complementary perspectives, not audience overlap.
+**vs:** Alianza por afinidad (similar people, creates duplication).
+**Principle:** Watson + Crick discovered DNA because each saw what the other couldn't. Dimension addition > audience addition.
+**Source:** "Con quién te alías define quién eres"
+
 ### Ambición sin Culpa
 **Definition:** Pursuing your goals without apologizing, diminishing, or qualifying them.
 **Use when:** You're reducing your ambition to fit in or make others comfortable.
@@ -18,6 +24,29 @@ Key terms and concepts from all 36 essays, alphabetically sorted. Each entry inc
 **Definition:** A decision or behavior that looks productive but destroys value over time.
 **Examples:** Optimizing instead of shipping, planning instead of testing, perfecting instead of launching.
 **Source:** All essays; see "La falacia del cartógrafo", "La ilusión de competencia"
+
+### Asimetría de Información
+**Definition:** When one party in a transaction knows more than the other about quality/value.
+**Consequence:** Without signals, the best players leave the market.
+**Source:** "El mercado de los limones"
+
+## F
+
+### Fijación Funcional
+**Definition:** The tendency to perceive objects only according to their usual function.
+**The Problem:** Once you label something "container of tacks," you can't see it as a "holder."
+**Principle:** Categories organize perception—and limit it.
+**Application:** Question the labels on everything in your business. What else could they be?
+**Source:** "Fijación funcional + Trabajo viejo vs trabajo nuevo + Certeza ciega"
+
+## G
+
+### Gastos Lineales
+**Definition:** Expenses that produce linear results (same cost = same output forever).
+**Examples:** Offices, equipment, recurring subscriptions, normalized processes.
+**Problem:** They become invisible once normalized and drain without multiplying.
+**vs:** Inversiones que multiplican.
+**Source:** "Gastos que normalizas & Disciplina que no cuestionas"
 
 ## B
 
@@ -38,15 +67,37 @@ Key terms and concepts from all 36 essays, alphabetically sorted. Each entry inc
 **Use when:** You're hiding your failures or treating them as shame.
 **Source:** "Tus cicatrices son credenciales"
 
+## I
+
+### Inversiones que Multiplican
+**Definition:** Expenses that create disproportionate returns (one investment → multiple results).
+**Examples:** Strategic coaching, high-leverage tools, system architecture, product development.
+**Principle:** The question isn't "Can I afford it?" It's "Does this multiply or just sum?"
+**Source:** "Gastos que normalizas & Disciplina que no cuestionas"
+
+## C
+
 ### Competencia (Competence)
 **Definition:** Actual demonstrated skill through repeated execution.
 **vs:** Understanding (which requires only thought, no action).
 **Source:** "La ilusión de competencia"
 
+### Certeza Ciega
+**Definition:** Being so certain of your narrative that you go blind to contradicting signals.
+**Recognition:** You know exactly what works, so you can't see what's actually happening.
+**Principle:** Doubt isn't indecision—it's the capacity to see more variables.
+**Source:** "Fijación funcional + Trabajo viejo vs trabajo nuevo + Certeza ciega"
+
 ### Compounding
 **Definition:** Results that build on previous results; each iteration makes the next one easier.
 **vs:** Linear effort (same effort = same results every time).
 **Source:** Multiple essays on execution, repetition, and long-term strategy
+
+### Cuello de Botella (Bottleneck)
+**Definition:** A single point of passage through which everything must flow.
+**Problem:** When you ARE the bottleneck, your business can't scale beyond your capacity.
+**Solution:** Design a system that doesn't depend on a single point of passage.
+**Source:** "Facturas como empresario, decides como freelance"
 
 ## D
 
@@ -210,6 +261,13 @@ Key terms and concepts from all 36 essays, alphabetically sorted. Each entry inc
 **Answer:** Patience (time invested) almost always beats initial talent.
 **Source:** "Paciencia vs talento"
 
+### Paciencia Estratégica
+**Definition:** Patience that doesn't depend on willpower, but on how your business is structured.
+**The Sequence:** Low costs → margin → time → options.
+**vs:** Paciencia como virtud (forcing discipline).
+**Principle:** The entrepreneur with most patience isn't the most disciplined; it's the one with lowest burn rate.
+**Source:** "El mercado de los limones + Paciencia no se practica + Matemática del intento"
+
 ### Permiso Retroactivo
 **Definition:** You don't ask for permission; you act, and if it works, permission follows.
 **Principle:** Authority is granted by results, not bestowed in advance.
@@ -230,6 +288,17 @@ Key terms and concepts from all 36 essays, alphabetically sorted. Each entry inc
 **Source:** "Por qué rechazar clientes"
 
 ## S
+
+### Selección Adversa
+**Definition:** When information asymmetry causes quality sellers to leave a market.
+**The Mechanism:** Buyers offer middle price → good sellers leave → market fills with lemons → prices fall → more good sellers leave → market destroys itself.
+**Application:** In knowledge work, reputation is what prevents commoditization. Signals (portfolio, cases, references) are essential.
+**Source:** "El mercado de los limones + Paciencia no se practica + Matemática del intento"
+
+### Sistema (System)
+**Definition:** The structures, processes, and decision principles that allow work to happen without you.
+**Levels:** Level 1 = you are the system. Level 2 = you direct the system. Level 3 = the system operates with your vision without you.
+**Source:** "Facturas como empresario, decides como freelance"
 
 ### Sombra (Shadow)
 **Definition:** The part of yourself you don't acknowledge but that shows up in your behavior.
@@ -257,6 +326,21 @@ Key terms and concepts from all 36 essays, alphabetically sorted. Each entry inc
 **Definition:** The ship in the paradox about whether a ship that's replaced every part is still the same ship.
 **Application:** How much can you change and still be you?
 **Source:** "La paradoja de Teseo"
+
+### Trabajo Nuevo
+**Definition:** Work that doesn't exist yet; what requires you to build without a marked path.
+**Characteristic:** Feels harder because there's no routine, no autopilot. Mental effort is enormous.
+**vs:** Trabajo viejo (feels productive but is incremental).
+**Principle:** New work compounds. Old work just multiplies your current limitations.
+**Invest:** 30 minutes per day in new work, pulled from old work. Highest-return investment possible.
+**Source:** "Fijación funcional + Trabajo viejo vs trabajo nuevo + Certeza ciega"
+
+### Trabajo Viejo
+**Definition:** Work you already know how to do; habitual, what you've executed for years.
+**Characteristic:** Feels productive, generates revenue, but is incremental. You feel exhausted but mind is on autopilot.
+**The Trap:** Market rewards what you've mastered, not what you're building. So incentive is to stay here.
+**Recognition:** When you're productive and results are stagnating.
+**Source:** "Fijación funcional + Trabajo viejo vs trabajo nuevo + Certeza ciega"
 
 ### Tirar la Escalera
 **Definition:** Removing your fallback options to force commitment and creativity.

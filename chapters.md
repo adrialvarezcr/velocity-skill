@@ -40,6 +40,11 @@ All 36 essays from La Bombilla, organized numerically and by topic. Use this to 
 34. [SaberHacerArquitecto  Lanzar es solo el Preparatorio Por qué te quedas atrapado donde crees que triunfas](chapters/ch34-saberhacerarquitecto-lanzar-es-solo-el-preparatori.md)
 35. [Tirar la escalera  Cruzar umbrales  El precio completo](chapters/ch35-tirar-la-escalera-cruzar-umbrales-el-precio-comple.md)
 36. [Tu sombra te delata  El ancla que sostiene  Dominio sin atajos](chapters/ch36-tu-sombra-te-delata-el-ancla-que-sostiene-dominio-.md)
+37. [Facturas como empresario, decides como freelance](chapters/ch37-facturas-como-empresario-decides-como-freelance.md)
+38. [Con quién te alías define quién eres](chapters/ch38-con-quien-te-alias-define-quien-eres.md)
+39. [Fijación funcional + Trabajo viejo vs trabajo nuevo + Certeza ciega](chapters/ch39-fijacion-funcional-trabajo-viejo-vs-trabajo-nuevo.md)
+40. [El mercado de los limones + Paciencia no se practica + Matemática del intento](chapters/ch40-mercado-de-limones-paciencia-matematica-intento.md)
+41. [Gastos que normalizas + Disciplina que no cuestionas](chapters/ch41-gastos-normalizados-disciplina-no-cuestionada.md)
 
 
 ## By Theme

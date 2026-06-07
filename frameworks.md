@@ -34,6 +34,16 @@
 **Action:** Lead magnets don't build empires—they build audiences. Know which you need.
 **Principle:** Clarity about what you're building matters more than complexity of your funnel.
 
+### Tres Niveles de Operación
+**When:** You're capped at current revenue no matter how hard you work.
+**Action:** Level 1 = you're the system. Level 2 = you direct the system. Level 3 = the system operates with your vision without you.
+**Principle:** True entrepreneurship starts when you design for Level 3—not instructions, but systems that encode your thinking.
+
+### Documentar no Procesos
+**When:** You're the bottleneck for every decision and delivery.
+**Action:** Make explicit not just what you do, but why you do it. Codify decision criteria, not just steps.
+**Principle:** The architecture that allows your business to function at your quality without you is worth more than the business itself.
+
 ## Mindset Frameworks (Think This)
 
 ### Ambición sin Culpa
@@ -66,6 +76,11 @@
 **Action:** Action is language now.
 **Principle:** Your moves are your message.
 
+### Certeza Ciega
+**When:** You're certain about your narrative and things aren't working.
+**Action:** Certainty kills your ability to perceive signals that contradict your story.
+**Principle:** Doubt isn't indecision—it's the capacity to see more variables. Stay uncertain just long enough to see what's actually happening.
+
 ## Decision Frameworks (Choose This Way)
 
 ### Elegir vs Decidir
@@ -93,7 +108,27 @@
 **Action:** You don't ask for permission. You act, and if it works, permission follows.
 **Principle:** Authority is given by results, not granted in advance.
 
+### Alianzas que Suman Dimensiones
+**When:** You're about to partner with someone similar to you.
+**Action:** Don't ally for audience overlap—ally for perspective intersection. Each brings a dimension the other can't see.
+**Principle:** Watson + Crick discovered DNA not because they complemented each other, but because each made visible what was invisible to the other.
+
+### Trabajo Viejo vs Trabajo Nuevo
+**When:** You're productive and results are stagnating.
+**Action:** Old work feels productive but is incremental. New work is harder but transforms. Invest 30 min/day in new work, pulled from old work.
+**Principle:** The market rewards what you've mastered. It doesn't reward what you're building. The trap is that you can see revenue from one, not the other.
+
 ## Anti-Patterns (Avoid This)
+
+### Fijación Funcional
+**When:** You've labeled something a certain way and can't see it differently.
+**Action:** Categories organize perception—and limit it. The box of tacks you see as "tacks container" is invisible as a holder.
+**Principle:** Once you catalog something, it stops appearing as an option. Question the labels.
+
+### La Normalización Invisible
+**When:** Costs and processes have become "just how we do things."
+**Action:** What's normalized becomes invisible. You stop questioning whether it's producing anything.
+**Principle:** The question isn't "can I afford this?" It's "does this multiply or just sum?"
 
 ### La Falacia del Cartógrafo
 **When:** You spend time mapping instead of exploring.
@@ -129,6 +164,28 @@
 **When:** You're busy but not moving.
 **Action:** Activity and progress are not the same.
 **Principle:** Some moves look productive but create zero compounding.
+
+## Market & Signaling Frameworks
+
+### Selección Adversa (El Mercado de los Limones)
+**When:** You're selling in a market where quality can't be distinguished.
+**Action:** Without signals, you compete on price with people who can't compete on quality. Portfolio, cases, references aren't vanity—they're the mechanism that prevents commoditization.
+**Principle:** In knowledge work, reputation isn't what's left when you succeed. It's what makes it possible for the market to distinguish you.
+
+### Paciencia Estratégica
+**When:** You're forcing patience as a virtue and burning out.
+**Action:** Build the conditions that make patience automatic—low costs → margin → time → options. Patience that depends on willpower is fragile.
+**Principle:** The entrepreneur with most patience isn't the most disciplined. It's the one with the lowest burn rate.
+
+### La Matemática del Intento
+**When:** You want to know why high-frequency people succeed more.
+**Action:** The person who attempts most has most failures AND most successes. High frequency beats perfect execution.
+**Principle:** 9,000 missed shots aren't overcoming—they're probability. The math says: more attempts = more wins.
+
+### Gastos Lineales vs Inversiones que Multiplican
+**When:** You're treating all expenses the same on your P&L.
+**Action:** Linear expenses give linear results. Multiplying investments give disproportionate returns. Most businesses are overloaded with the first and starved of the second.
+**Principle:** Look at your P&L not for the total, but the species of each line. That ratio tells you more about your future than revenue does.
 
 ## Laws & Effects
 
